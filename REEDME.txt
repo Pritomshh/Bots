@@ -1,0 +1,12 @@
+
+/////////////////////////////////////////////////////////////////////////////////////
+
+1. Fill out the .env file with your own information
+
+2. Download python and install it and make sure check all options
+
+3. Open CMD in bot directory and run this commen pip install -r requirements.txt
+
+4. After that run this command python main.py
+
+/////////////////////////////////////////////////////////////////////////////////////
